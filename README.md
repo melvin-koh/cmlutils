@@ -1,3 +1,10 @@
+# **Note** 
+This is a custom version of the official cmlutil tool from Cloudera. The official Github repository of this tool is at https://github.com/cloudera/cmlutils.
+Changes will be committed to this repository without extensive testing, so this custom version may not always be stable. Use at your own risk.
+
+### Change History:
+* 2024-07-01: Forked from official repository based on version v1.2.0.
+
 # **cmlutil** 
 
 `cmlutil` is a command-line interface (CLI) tool designed to enhance the [Cloudera Machine Learning (CML)](https://docs.cloudera.com/machine-learning/cloud/index.html) experience. It provides various utilities and functionalities to help working with Cloudera Machine Learning.
